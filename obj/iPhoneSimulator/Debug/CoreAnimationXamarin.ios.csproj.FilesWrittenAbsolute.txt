@@ -1,0 +1,13 @@
+/Users/hariwepuri/Desktop/Xamarin_Tutorial/CoreAnimationXamarin/CoreAnimationXamarin.ios/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/hariwepuri/Desktop/Xamarin_Tutorial/CoreAnimationXamarin/CoreAnimationXamarin.ios/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.nib
+/Users/hariwepuri/Desktop/Xamarin_Tutorial/CoreAnimationXamarin/CoreAnimationXamarin.ios/obj/iPhoneSimulator/Debug/ibtool/FirstViewController.nib
+/Users/hariwepuri/Desktop/Xamarin_Tutorial/CoreAnimationXamarin/CoreAnimationXamarin.ios/obj/iPhoneSimulator/Debug/ibtool/SecondViewController.nib
+/Users/hariwepuri/Desktop/Xamarin_Tutorial/CoreAnimationXamarin/CoreAnimationXamarin.ios/obj/iPhoneSimulator/Debug/ibtool/ViewTransaction.nib
+/Users/hariwepuri/Desktop/Xamarin_Tutorial/CoreAnimationXamarin/CoreAnimationXamarin.ios/obj/iPhoneSimulator/Debug/actool/partial-info.plist
+/Users/hariwepuri/Desktop/Xamarin_Tutorial/CoreAnimationXamarin/CoreAnimationXamarin.ios/obj/iPhoneSimulator/Debug/actool/asset-manifest.plist
+/Users/hariwepuri/Desktop/Xamarin_Tutorial/CoreAnimationXamarin/CoreAnimationXamarin.ios/obj/iPhoneSimulator/Debug/Images/MyImage.png
+/Users/hariwepuri/Desktop/Xamarin_Tutorial/CoreAnimationXamarin/CoreAnimationXamarin.ios/obj/iPhoneSimulator/Debug/Images/dog.png
+/Users/hariwepuri/Desktop/Xamarin_Tutorial/CoreAnimationXamarin/CoreAnimationXamarin.ios/bin/iPhoneSimulator/Debug/CoreAnimationXamarin.ios.exe.mdb
+/Users/hariwepuri/Desktop/Xamarin_Tutorial/CoreAnimationXamarin/CoreAnimationXamarin.ios/bin/iPhoneSimulator/Debug/CoreAnimationXamarin.ios.exe
+/Users/hariwepuri/Desktop/Xamarin_Tutorial/CoreAnimationXamarin/CoreAnimationXamarin.ios/obj/iPhoneSimulator/Debug/CoreAnimationXamarin.ios.exe
+/Users/hariwepuri/Desktop/Xamarin_Tutorial/CoreAnimationXamarin/CoreAnimationXamarin.ios/obj/iPhoneSimulator/Debug/CoreAnimationXamarin.ios.exe.mdb
